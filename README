@@ -1,0 +1,23 @@
+# Ai Strategy Consulting – Landing Page
+
+Landing page en modo oscuro estilo **“Dark Luxury Tech”** para la marca **Ai Strategy Consulting**, consultoría estratégica en Inteligencia Artificial orientada a empresas.
+
+## Estructura del proyecto
+
+```text
+proyecto/
+├── index.html
+├── styles.css
+├── script.js
+└── images/
+    ├── logo.png
+    ├── hero_visual.png
+    ├── service_1.png
+    ├── service_2.png
+    ├── service_3.png
+    ├── service_4.png
+    ├── service_5.png
+    ├── service_6.png
+    ├── showcase_1.png
+    ├── showcase_2.png
+    └── about_image.png
